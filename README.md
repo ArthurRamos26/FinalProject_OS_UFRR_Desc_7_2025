@@ -99,6 +99,7 @@ Estrutura:
 - Banco de Dados (Ex: PostgreSQL)
 
 ### Docker Compose: `docker-compose.yml`
+#### docker compose atua como uma ferramenta que permite executar varias acoes tendo independente do SO da maquina.
 ```yaml
 version: '3'
 
